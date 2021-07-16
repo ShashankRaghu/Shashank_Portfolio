@@ -12,3 +12,12 @@ Data Science Portfolio
 * #### We have also used an attention model in between the encoder and decoder. We can see the attention model at work below:
 ![Eye_for_blind2](https://user-images.githubusercontent.com/77088516/125981732-35874d14-871e-4da5-88cb-ba3ea14bc21f.PNG)
 * #### We have used Beam Search to select the output caption, and BLUE score to evaluate the model. The BLUE achieved wa 32.38
+
+## [Project 2:Gesture Recognition Project](https://github.com/ShashankRaghu/Data_Science_Projects/tree/main/GestureRecognition)
+### This project deals with developing a model which takes a video(30 frames) of a hand gesture as input and classify it into one of 5 gestures.
+
+* #### The dataset can be downloaded from this [drive](https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL).
+* #### We have build a generator to set up the data ingestion pipeline, we have perpormed image pre-processing techniques.
+* #### We have build several 3D CNN models, and tuned the hyper parameters; learning rate, optimizer used etc.
+* #### We have tried Batch Normalization, Dropout and some other techniques to arrive at the best model.
+* #### The best model is a 5 layer CNN model with relu activation function, Batch Normalization, Dropout, optimizer: RMSProp and learning rate: 0.005.
