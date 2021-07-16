@@ -1,5 +1,5 @@
 # Shashank_Portfolio
-##Data Science Portfolio
+### Data Science Portfolio
 
 # [Project 1: Eye for Blind Project](https://github.com/ShashankRaghu/Data_Science_Projects/tree/main/eye_for_blind)
 ## The premise of this project is to create a model, which take a image as input and converts it into a sound byte describing the image. The ML part involves, converting image to caption. Conversion of the captions generated into an audio output with the help of text-to-speech library.
@@ -14,7 +14,7 @@
 * #### We have used Beam Search to select the output caption, and BLUE score to evaluate the model. The BLUE achieved wa 32.38
 
 # [Project 2: Gesture Recognition Project](https://github.com/ShashankRaghu/Data_Science_Projects/tree/main/GestureRecognition)
-## This project deals with developing a model which takes a video(30 frames) of a hand gesture as input and classify it into one of 5 gestures.
+### This project deals with developing a model which takes a video(30 frames) of a hand gesture as input and classify it into one of 5 gestures.
 
 * #### The dataset can be downloaded from this [drive](https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL).
 * #### We have build a generator to set up the data ingestion pipeline, we have perpormed image pre-processing techniques.
@@ -23,7 +23,7 @@
 * #### The best model is a 5 layer CNN model with relu activation function, Batch Normalization, Dropout, optimizer: RMSProp and learning rate: 0.005.
 
 # [Project 3: Telecom Churn Prediction](https://github.com/ShashankRaghu/Data_Science_Projects/tree/main/TelecomChurn)
-## The aim of this project is to build a model which can predict wheather a custmoer will churn(leave the netwrok). The dataset conatins information about a customers cellular transactions for the months June(6) to September(9). We need to predict of the customer will churn in September using the data from month 6 to 8.
+### The aim of this project is to build a model which can predict wheather a custmoer will churn(leave the netwrok). The dataset conatins information about a customers cellular transactions for the months June(6) to September(9). We need to predict of the customer will churn in September using the data from month 6 to 8.
 
 * #### The dataset can be download from [this link](https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view).
 * #### We have performed the following preprocessing steps:
