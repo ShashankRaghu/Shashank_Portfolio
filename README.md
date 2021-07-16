@@ -13,7 +13,7 @@ Data Science Portfolio
 ![Eye_for_blind2](https://user-images.githubusercontent.com/77088516/125981732-35874d14-871e-4da5-88cb-ba3ea14bc21f.PNG)
 * #### We have used Beam Search to select the output caption, and BLUE score to evaluate the model. The BLUE achieved wa 32.38
 
-## [Project 2:Gesture Recognition Project](https://github.com/ShashankRaghu/Data_Science_Projects/tree/main/GestureRecognition)
+## [Project 2: Gesture Recognition Project](https://github.com/ShashankRaghu/Data_Science_Projects/tree/main/GestureRecognition)
 ### This project deals with developing a model which takes a video(30 frames) of a hand gesture as input and classify it into one of 5 gestures.
 
 * #### The dataset can be downloaded from this [drive](https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL).
