@@ -2,7 +2,7 @@
 ### Data Science Portfolio
 
 # [Project 1: Eye for Blind Project](https://github.com/ShashankRaghu/Data_Science_Projects/tree/main/eye_for_blind)
-## The premise of this project is to create a model, which take a image as input and converts it into a sound byte describing the image. The ML part involves, converting image to caption. Conversion of the captions generated into an audio output with the help of text-to-speech library.
+### The premise of this project is to create a model, which take a image as input and converts it into a sound byte describing the image. The ML part involves, converting image to caption. Conversion of the captions generated into an audio output with the help of text-to-speech library.
 
 * #### The dataset used in this project can be downloaded from Kaggle: https://www.kaggle.com/adityajn105/flickr8k
 * #### The dataset is an image as an input and a caption as the output. Each image is repeat 5 times with slightly different captions.
